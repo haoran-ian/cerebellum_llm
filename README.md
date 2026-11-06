@@ -87,14 +87,6 @@ environment with `.venv\Scripts\Activate.ps1` instead.
 
 ## 4. Run the Examples
 
-With the virtual environment active, the SSH tunnel open, and
-`VLLM_API_KEY` set, enter the examples directory from the directory
-where you cloned the repository:
-
-```bash
-cd LLaMEA/cerebellum_llm
-```
-
 ### Direct API Call
 
 [general_example.py](general_example.py) requests NumPy-based differential
